@@ -1,0 +1,4 @@
+
+logging.level:
+  ROOT: WARN
+  com.lesuorac.swagger: TRACE
